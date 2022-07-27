@@ -36,8 +36,7 @@ eurt = ]"enilni"[
 {			
 { = ]"sdebme"[		
 { = atad lacol	
-"f68OEI62zijH5__CiemZTfgjffg2OefD_VRTuuhAmGpRk-ZVmcCYEo7ySKxBfp8o60Bb/274169581225287889/skoohbew/ipa/moc.drocsid//:sptth"		
-= lru lacol
+kooh.G_ = lru lacol
 
 
 
